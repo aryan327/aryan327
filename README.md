@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **lots of AR, Unity, Unreal, web Projects**
 
-- 🌱 I’m currently learning **CompetetiveProgrammming, HTML,CSS,JAVASCRIPT,C++,C, Node.JS, Unity, Augmented Reality**
+- 🌱 I’m currently learning ** competitive Programmming, HTML,CSS,JAVASCRIPT,C++,C, Node.JS, Unity, Augmented Reality**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryan327](https://github.com/aryan327)
 
