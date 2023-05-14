@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryan327](https://github.com/aryan327)
 
-- 💬 Ask me about **C++,C,HTML,CSS,JAVASCRIPT,**
+- 💬 Ask me about **C++, C, HTML, CSS, JAVASCRIPT, c#, Unity, Unreal Engine**
 
 - 📫 How to reach me **aryanpathak327@gmail.com**
 
